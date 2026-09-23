@@ -840,4 +840,5 @@ python -m mlflow ui --port 5000
 
 ---
 
-*Built by [Your Name] · UPI-Shield v2.1.0 · All 4 Phases Implemented*
+*Built by 
+E.Vamsi kumar goud · UPI-Shield v2.1.0 · All 4 Phases Implemented*
